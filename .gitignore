@@ -1,0 +1,11 @@
+#tests with telegram python bot api
+tests/
+
+#just cache
+__pycache__
+
+#personal reminders and plans of users
+timetable.db
+
+#my bot token :)
+_bottoken.py
